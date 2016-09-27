@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>StructuredData.Common</id>
+    <version>0.2.0.0</version>
+    <authors>Simon Hanlon</authors>
+    <owners>Simon Hanlon</owners>
+    <description>Core features for StructuredData Libraries</description>
+    <projectUrl>http://github.com/simonH/StructuredData.Common</projectUrl>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <tags>structured transport data</tags>
+    <language>en-us</language>
+  </metadata>
+  <files>
+    <file src="StructuredData.Common\bin\Release\StructuredData.Common.*" target="lib\net40" />
+  </files>
+</package>
